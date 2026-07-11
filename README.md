@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0190-reverse-bits) |
 ## String
 |  |
 | ------- |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
