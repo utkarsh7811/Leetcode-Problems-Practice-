@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0290-word-pattern) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0290-word-pattern) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Database
