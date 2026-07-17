@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0088-merge-sorted-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 ## Sorting
