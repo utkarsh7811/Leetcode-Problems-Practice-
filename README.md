@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0178-rank-scores](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0196-delete-duplicate-emails) |
 | [1193-monthly-transactions-i](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/1193-monthly-transactions-i) |
 ## Memoization
 |  |
