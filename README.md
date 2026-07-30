@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0115-distinct-subsequences) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0115-distinct-subsequences) |
