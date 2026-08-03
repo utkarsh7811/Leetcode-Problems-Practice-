@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Database
 |  |
 | ------- |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0191-number-of-1-bits) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -413,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Queue
 |  |
 | ------- |
@@ -458,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0594-longest-harmonious-subsequence](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
