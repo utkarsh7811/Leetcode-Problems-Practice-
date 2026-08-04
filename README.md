@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0415-add-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0888-fair-candy-swap) |
+| [1189-maximum-number-of-balloons](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
