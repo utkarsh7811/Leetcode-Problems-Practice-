@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0053-maximum-subarray) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0069-sqrtx) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 ## Backtracking
