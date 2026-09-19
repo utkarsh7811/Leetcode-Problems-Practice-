@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/0910-smallest-range-ii) |
 | [1140-stone-game-ii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/utkarsh7811/Leetcode-Problems-Practice-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/utkarsh7811/https-github.com-utkarsh7811-Leetcode-Problems/tree/master/1872-stone-game-viii) |
@@ -741,4 +742,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/utkarsh7811/Leetcode-Problems-Practice-/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/utkarsh7811/Leetcode-Problems-Practice-/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
